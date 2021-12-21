@@ -15,6 +15,15 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
+![CRWN Clothing - Google Chrome 21-12-2021 09_36_54](https://user-images.githubusercontent.com/77169816/146869925-472b90bd-f968-4020-90c9-3117021fc085.png)
+
+![CRWN Clothing - Google Chrome 21-12-2021 09_37_05](https://user-images.githubusercontent.com/77169816/146869974-c186c15c-4b9d-452d-9233-5b2ba4cdbe89.png)
+
+![CRWN Clothing - Google Chrome 21-12-2021 09_37_12](https://user-images.githubusercontent.com/77169816/146869999-98c3e9c1-dc64-4619-abbd-2c15f2e0a3c5.png)
+
+![CRWN Clothing - Google Chrome 21-12-2021 09_37_51](https://user-images.githubusercontent.com/77169816/146870036-41f63a13-fe6c-491c-9eb5-a74f97781c97.png)
+
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
